@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Layout Play Space</string>
+    <string name="text_date_view">Today, 2 May</string>
+    <string name="some_dummy_image">Some dummy image</string>
+</resources>
